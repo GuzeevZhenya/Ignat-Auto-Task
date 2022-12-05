@@ -31,7 +31,7 @@ export const pureAddUserCallback = (
   // need to fix any
   const user = {
     _id: v1(),
-    user: name,
+    name: name,
   };
 
   setUsers([...users, user]);
