@@ -1,3 +1,4 @@
+import { on } from "process";
 import React, {
   ChangeEvent,
   DetailedHTMLProps,
@@ -27,8 +28,10 @@ const SuperCheckbox: React.FC<SuperCheckboxPropsType> = ({
   ...restProps // все остальные пропсы попадут в объект restProps
 }) => {
   const onChangeCallback = (e: ChangeEvent<HTMLInputElement>) => {
-    onChange && onChange(e);
-    onChangeChecked && onChangeChecked(e.target.checked);
+    // onChange && onChange(e);
+    // onChangeChecked && onChangeChecked(e.target.checked);
+    onChange?.(e);
+    onChangeChecked?.(e.target.checked);
   };
 
   const finalInputClassName = s.checkbox + (className ? " " + className : "");
