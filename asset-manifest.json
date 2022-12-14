@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/Ignat-Auto-Task/static/css/main.0fcf050e.css",
-    "main.js": "/Ignat-Auto-Task/static/js/main.aefcf536.js",
+    "main.css": "/Ignat-Auto-Task/static/css/main.4af97e26.css",
+    "main.js": "/Ignat-Auto-Task/static/js/main.ba8bc84a.js",
     "static/js/787.fdae98b0.chunk.js": "/Ignat-Auto-Task/static/js/787.fdae98b0.chunk.js",
     "static/media/avatar.png": "/Ignat-Auto-Task/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/closeOutline.svg": "/Ignat-Auto-Task/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
     "static/media/checked.svg": "/Ignat-Auto-Task/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/Ignat-Auto-Task/index.html",
-    "main.0fcf050e.css.map": "/Ignat-Auto-Task/static/css/main.0fcf050e.css.map",
-    "main.aefcf536.js.map": "/Ignat-Auto-Task/static/js/main.aefcf536.js.map",
+    "static/media/burger.svg": "/Ignat-Auto-Task/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
+    "main.4af97e26.css.map": "/Ignat-Auto-Task/static/css/main.4af97e26.css.map",
+    "main.ba8bc84a.js.map": "/Ignat-Auto-Task/static/js/main.ba8bc84a.js.map",
     "787.fdae98b0.chunk.js.map": "/Ignat-Auto-Task/static/js/787.fdae98b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fcf050e.css",
-    "static/js/main.aefcf536.js"
+    "static/css/main.4af97e26.css",
+    "static/js/main.ba8bc84a.js"
   ]
 }
