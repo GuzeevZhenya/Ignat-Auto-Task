@@ -21,3 +21,11 @@
 
 .ageCol {
 }
+
+.mass {
+  margin-left: 20px;
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  color: #282c34;
+}
